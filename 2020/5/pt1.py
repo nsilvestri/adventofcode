@@ -1,0 +1,1 @@
+print('i used regex101 to find the highest value manually and converted it to binary')
